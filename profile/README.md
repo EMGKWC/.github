@@ -1,5 +1,7 @@
-## Hi there 👋
+## EMGKWC Github Org
 
+Who are we? 
+ - We are a Canadian Owned and Operated News & Media Company Focused on First Responders
 <!--
 
 **Here are some ideas to get you started:**
