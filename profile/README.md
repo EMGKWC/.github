@@ -2,7 +2,10 @@
 
 Who are we? 
  - We are a Canadian Owned and Operated News & Media Company Focused on First Responders
-<!--
+
+## Where is our code?
+- Our code is hidden for security.
+<!-- 
 
 **Here are some ideas to get you started:**
 
